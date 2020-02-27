@@ -8,4 +8,4 @@
 
 - **React js**
 
-**Deployed in Netlify**:[Doggy🐶](https://eager-benz-1bdda4.netlify.com/)
+**Deployed in Netlify**: [Doggy🐶](https://eager-benz-1bdda4.netlify.com/)
