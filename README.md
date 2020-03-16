@@ -1,7 +1,7 @@
 # Random dog image generator :dog:
 
 
-## Data fetched from [Punk API](https://punkapi.com/)
+## Data fetched from [Dog API](https://dog.ceo/api/)
 
 ## Backlogs
 
