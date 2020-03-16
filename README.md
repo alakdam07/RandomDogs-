@@ -1,11 +1,25 @@
-# Twenty mins code challenge
+# Random dog image generator :dog:
 
-## fetch data from open api and randomly generate the dog image after button clicks.
 
-## Challenge successfully completed 😎.
+## Data fetched from [Punk API](https://punkapi.com/)
 
-**Tachnology:**
+## Backlogs
 
-- **React js**
+- [x] Setup App
+  - [x] Create React-app
+  - [x] Install dependencies
+  - [x] Use hooks
+  - [x] Fetch data
+  - [x] Shows data to the browser
+  - [x] For styling: Materializecss
+  - [x] Error handaling
+  - [x] Build production
+- [x] Deployment
+  - [x] Create [Netlify](https://www.netlify.com/) app
+  - [x] Deployment complete
+  
+  
+## Copyright
 
-**Deployed in Netlify**: [Doggy🐶](https://eager-benz-1bdda4.netlify.com/)
+Owned by [Alak Dam](http://www.alakdam.com/)
+
